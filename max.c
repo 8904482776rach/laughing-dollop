@@ -19,7 +19,7 @@ float max(char c,float a ,float b)
      }
      if(c=='/')
      {
-         float j=a/b;
+         float (j=a/b);
          return j;
      }
  }
