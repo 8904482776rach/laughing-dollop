@@ -5,7 +5,7 @@
 
 int main()
 {  //char c;
-
+   printf("welcome to main :) \n ");
    assert(max('+',10,15)==25);
    assert(max('*',10,15)==150);
    assert(max('-',15,15)==0);
